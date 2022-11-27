@@ -25,7 +25,7 @@ We created a website on the dentile to know about dentile service in our country
 **Below pages are the service pages of our website**
 
 ![service1](https://user-images.githubusercontent.com/110348788/204138233-239178d9-4921-40cc-b5f5-4e636cb0054d.jpg)
-![service2](https://user-images.githubusercontent.com/110348788/204137749-7e6d867e-09ea-4bde-92fe-ffcefd21ace7.jpg)
+![service2](https://user-images.githubusercontent.com/110348788/204138392-4fc8c0f7-dc22-474b-b280-5ac52adcac2c.jpg)
 ![service3](https://user-images.githubusercontent.com/110348788/204137750-c21eb045-fa7f-406c-9016-bd0ec9cf10b2.jpg)
 
 **Below pages are the contact pages of our website**
