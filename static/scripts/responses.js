@@ -2,13 +2,13 @@ function getBotResponse(input) {
     //rock paper scissors
     
     if (input == "medicines") {
-        return "paracetmol,antibiotics,vitamin c tablets";
+        return "ibuprofen,naproxen,vitamin D tablets";
     } else if (input == "symptoms") {
-        return "fever,headache,bodypains,sore throat,chest pain,difficulty in breathing";
+        return "Toothache, spontaneous pain or pain,Tooth sensitivity,Root Infection,Enamel Erosion";
     } else if (input == "preventations") {
-        return "wear masks in public and maintain social distance with peoples";
+        return "Brush twice a day with a soft-bristled toothbrush";
     }else if (input == "foods") {
-        return "eat healthy fruits,vegetables,egg,dry fruits";
+        return "Cheese, Milk,Yogurt,Celery,Carrots,Apples,Nuts,Tea,Coffee";
     }else if (input ==  "emergency") {
         return "visit your nearer hospital and seek immediate medical process";
     }
