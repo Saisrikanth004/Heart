@@ -5,7 +5,7 @@ function getBotResponse(input) {
         return "ibuprofen,naproxen,vitamin D tablets";
     } else if (input == "symptoms") {
         return "Toothache, spontaneous pain or pain,Tooth sensitivity,Root Infection,Enamel Erosion";
-    } else if (input == "preventations") {
+    } else if (input == "preventions") {
         return "Brush twice a day with a soft-bristled toothbrush";
     }else if (input == "foods") {
         return "Cheese, Milk,Yogurt,Celery,Carrots,Apples,Nuts,Tea,Coffee";
