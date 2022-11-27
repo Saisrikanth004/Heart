@@ -13,6 +13,7 @@ function getBotResponse(input) {
         return "visit your nearer hospital and seek immediate medical process";
     }
     
+    
 
     // Simple responses
     if (input == "hello") {
