@@ -8,27 +8,29 @@ We created a website on the dentile to know about dentile service in our country
 
 **Below pages are the home page of our website**
 
-![home1](https://user-images.githubusercontent.com/102216122/203611995-d21ca430-21fe-4138-8f17-78e2e315b063.jpg)
-![home2](https://user-images.githubusercontent.com/102216122/203611996-32018a10-dd17-48cd-a88e-582b91e0befe.jpg)
-![home3](https://user-images.githubusercontent.com/102216122/203612002-6c6a82cc-1680-4472-9847-ab6ce90ed580.jpg)
-![home4](https://user-images.githubusercontent.com/102216122/203612007-730abade-62d1-4692-9bfb-c2b3bf9fd749.jpg)
-![home5](https://user-images.githubusercontent.com/102216122/203612009-5b4c2e1f-c773-4b1d-99a0-4489cae273f7.jpg)
+![home1](https://user-images.githubusercontent.com/110348788/204137674-d9fc8292-7333-458b-a788-ae9e8a6674ba.jpg)
+![home2](https://user-images.githubusercontent.com/110348788/204137678-57bafe6d-1a05-4745-bc52-7df1fac9b843.jpg)
+![home3](https://user-images.githubusercontent.com/110348788/204137679-0fd4065e-73fe-4325-90b7-6d5dbaf17b57.jpg)
+![home4](https://user-images.githubusercontent.com/110348788/204137680-c159cd45-2119-4ba2-89e1-0ddd138c46d6.jpg)
+![home5](https://user-images.githubusercontent.com/110348788/204137681-7639e54b-0375-4dbc-9f66-2b6621640970.jpg)
+
 
 **Below pages are the about pages of our website**
 
-![about1](https://user-images.githubusercontent.com/102216122/203611974-7d1313d7-c443-450d-a8d9-7b5b099c6a93.jpg)
-![about2](https://user-images.githubusercontent.com/102216122/203611982-acca91dd-8787-4440-8e6b-ec1f8d9d2c44.jpg)
-![about3](https://user-images.githubusercontent.com/102216122/203611986-e44387d8-78c2-4688-befc-2d6b8f8ec368.jpg)
+![about1](https://user-images.githubusercontent.com/110348788/204137715-d7fdec94-fcd5-42cd-9671-c8bf00704ec4.jpg)
+![about2](https://user-images.githubusercontent.com/110348788/204137718-7b5e8ac4-ca53-4433-9716-e970f3e149f3.jpg)
+![about3](https://user-images.githubusercontent.com/110348788/204137719-850950e9-ca18-4daa-af41-a752c5c210eb.jpg)
+
 
 
 **Below pages are the contact pages of our website**
 
-![contact1](https://user-images.githubusercontent.com/102216122/203611989-aa139d21-9415-4d2d-a468-c626a4cfd8e6.jpg)
-![contact2](https://user-images.githubusercontent.com/102216122/203611992-d1d5881e-5f18-4dc7-948a-90e2f2ac68a2.jpg)
+![contact1](https://user-images.githubusercontent.com/110348788/204137730-1f8d0f71-3329-4ef2-a364-e799ab0e875d.jpg)
+![contact2](https://user-images.githubusercontent.com/110348788/204137734-8a25daaa-a2ef-4d7a-ae9b-2562522d13eb.jpg)
+
 
 
 **Below pages are the service pages of our website**
-
-![service1](https://user-images.githubusercontent.com/102216122/203612013-f2fc7b72-2869-4c3e-8e97-8602c89c9a47.jpg)
-![service2](https://user-images.githubusercontent.com/102216122/203612020-2587b3c5-03ef-4022-ae8f-adcdf9ce1193.jpg)
-![service3](https://user-images.githubusercontent.com/102216122/203612022-1fe55258-0c15-4a65-ad32-5e2f8443a809.jpg)
+![service1](https://user-images.githubusercontent.com/110348788/204137746-9aee77ac-daec-4181-b151-1ac19cb5323a.jpg)
+![service2](https://user-images.githubusercontent.com/110348788/204137749-7e6d867e-09ea-4bde-92fe-ffcefd21ace7.jpg)
+![service3](https://user-images.githubusercontent.com/110348788/204137750-c21eb045-fa7f-406c-9016-bd0ec9cf10b2.jpg)
