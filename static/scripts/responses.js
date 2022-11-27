@@ -10,7 +10,7 @@ function getBotResponse(input) {
     }else if (input == "foods") {
         return "Cheese, Milk,Yogurt,Celery,Carrots,Apples,Nuts,Tea,Coffee";
     }else if (input ==  "emergency") {
-        return "visit your nearer hospital and seek immediate medical process";
+        return "visit your nearer dental care and seek immediate Oral Care";
     }
     
     
