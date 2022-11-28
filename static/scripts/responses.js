@@ -11,6 +11,8 @@ function getBotResponse(input) {
         return "Cheese, Milk,Yogurt,Celery,Carrots,Apples,Nuts,Tea,Coffee";
     }else if (input ==  "emergency") {
         return "visit your nearer dental care and seek immediate Oral Care";
+    }else if (input ==  "toll-free") {
+        return "1800-11-7272";
     }
     
     
